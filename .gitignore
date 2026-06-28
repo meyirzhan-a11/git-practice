@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.env
